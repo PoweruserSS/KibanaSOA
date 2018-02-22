@@ -1,0 +1,4 @@
+{
+  "UI-WELCOME_MESSAGE": "Loading SCIO",
+  "UI-WELCOME_ERROR": "SCIO did not load properly. Check the server output for more information."
+}

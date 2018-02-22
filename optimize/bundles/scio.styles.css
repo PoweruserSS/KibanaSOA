@@ -1,0 +1,272 @@
+.global-nav .logo.kibana{
+	 background-image:url('SCIO-logo.png');
+	 background-color:transparent;
+ }
+.global-nav__logo{
+	background-color:#808284;
+}
+.kibanaWelcomeLogo{
+	background-image: url(favicon.ico);
+	background-position: 0px 15px;
+}
+kbn-management-landing .management-panel__heading-icon--kibana{
+	    background-image: url(favicon.ico) !important;
+}
+ .global-nav__links{
+	 background-color:#333;
+ }
+ 
+ .global-nav-link.active .global-nav-link__anchor, .global-nav-link:hover .global-nav-link__anchor{
+	 background-color:#F1560E;
+ }
+ 
+ .kuiLocalMenuItem:hover{
+	 background-color:#F1560E;
+	 color:#fff;
+ }
+ 
+ .kuiLocalSearchButton{
+	 background-color:#F1560E;
+ }
+ 
+ .discover-table-footer a{
+	 color:#F1560E;
+ }
+ 
+ .filter-description a{
+	 color:black;
+	 font-weight:bold;
+ }
+ 
+ .filter-description a:hover{
+  color:#F1560E;
+  font-weight:bold;
+ }
+ 
+ 
+ .kuiLocalSearchAssistedInput__assistance p a{
+	 color:#F1560E;
+ }
+ 
+ .kuiText a:hover{
+	 color:#F1560E;
+	 text-decoration:underline;
+ }
+ 
+ .kuiButton--primary:enabled:active, .kuiButton--primary:enabled:hover{
+	 background-color:#F1560E;
+ }
+ 
+ .kuiButton--primary{
+	 background-color:#F1560E;
+ }
+ 
+ .btn-default{
+	 background-color: #f1560ebf;
+    border-color: #f1560e0a;
+ }
+ 
+ .btn-default:hover{
+ background-color:#F1560E;
+ border-color:#F1560E;
+ }
+ 
+ .kuiLocalBreadcrumb a{
+	 color:#F1560E !important;
+ }
+ 
+ .kuiButton--primary:disabled{
+	 background-color: #f1560e4f;
+ }
+ 
+ button:focus { outline:none }
+ 
+ a:focus{outline:none}
+ 
+ .navbar-nav>.active>a{
+	 border-bottom-color:#F1560E;
+ }
+ 
+ .kuiCheckBox:checked{
+	 background-color:#F1560E;
+	 border-color:#F1560E;
+ }
+ 
+ .kuiSideBarSectionTitle__action{
+	 color:#F1560E;
+ }
+ 
+ .kuiSideBarSectionTitle__action:hover{
+	 color:#F1560E;
+ }
+ 
+ input[type=checkbox]:focus{
+	     border-color: #F1560E;
+ }
+ 
+ .kuiSideBarOptionsLink__caret{
+	 color:#F1560E;
+ }
+ 
+ .kuiSideBarOptionsLink span{
+	 color:#F1560E;
+ }
+ 
+ input:focus{
+	 outline:none;
+ }
+ 
+ button:focus{
+	 outline:none;
+ }
+ 
+ .kuiButton--primary:hover{
+ background-color:#F1560E!important;
+ }
+ 
+ a {
+    color: #F1560E;
+}
+
+a:hover{
+	color:#F1560E;
+}
+
+.kuiButton--basic:enabled:hover{
+	background-color:#F1560E!important;
+}
+
+.kuiLocalSearchInput:focus{
+	border-color:transparent;
+}
+
+.kuiLink{
+	color:#F1560E!important;
+}
+
+.ui-select-bootstrap .ui-select-choices-row.active>span{
+	background-color:#F1560E!important;
+}
+
+:focus{
+	outline:none!important;
+}
+
+.global-nav__links::-webkit-scrollbar-thumb{
+	background-color:#F1560E;
+}
+.kuiSearchInput__input:focus {
+	border-color: #F1560E;
+}
+.kuiGalleryButton:hover{
+	border-color: #F1560E;
+}
+.kuiToolBarSearchBox__input:focus{
+	border-color: #F1560E;
+}
+.kuiTextInput:focus{
+	border-color: #F1560E;
+}
+.kuiModal {
+	border: #F1560E;
+}
+.kuiButton--hollow{
+	color: #F1560E!important;
+}
+.kuiButton--hollow:enabled:hover{
+	color: #F1560E;
+}
+.kuiLocalSearchButton:focus{
+	box-shadow: 0 0 0 1px #e4e4e4, 0 0 0 2px #F1560E;
+}
+.kuiButton:not(a):enabled:focus, a.kuiButton:not(.kuiButton-isDisabled):focus{
+	box-shadow: 0 0 0 1px #fff, 0 0 0 2px #F1560E;
+}
+.kuiTab:hover:not(.kuiTab-isSelected){
+	color: #F1560E;
+}
+.kuiLocalDropdownHeader__action{
+	color: #F1560E;
+}
+.kuiLocalDropdownHeader__action:active, .kuiLocalDropdownHeader__action:hover {
+    color: #000!important;
+}
+.kuiMenuButton--primary{
+	background-color: #F1560E!important;
+}
+.kuiMenuButton:focus{
+	box-shadow: 0 0 0 1px #fff, 0 0 0 2px #F1560E;
+}
+.kuiInfoPanel--warning {
+    border-color: #F1560E;
+	border-width: 1px;
+}
+.kuiLocalSearchSelect:focus{
+	border-color: #F1560E;
+}
+.form-control:focus {
+    border-color: #F1560E;
+}
+
+.loadingIndicator__bar{
+	background-color: #F1560E;
+    background-image: linear-gradient(90deg,#FF5B0F 0,#FF5B0F 50%,#F1560E 0,#F1560E);
+} 
+
+.kuiModal{
+	    border: 1px solid #F1560E!important;
+		box-shadow: none !important;
+}
+.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover{
+	background-color: #808284;
+    border-color: #808284;
+}
+.btn-default.focus, .btn-default:focus{
+	background-color: #808284;
+}
+.btn-default.focus, .btn-default:visited{
+	box-shadow : none;
+}
+.progress-bar{
+	background-color: #3c3c3c;
+}
+
+.kuiSelect:focus{
+	border-color: #F1560E;
+}
+kbn-management-landing .management-section-info{
+	color: #F1560E !important;
+}
+.kuiCheckBox:focus {
+	box-shadow: 0 0 0 1px #fff, 0 0 0 2px #F1560E;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    background-color: #F1560E;
+}
+.label-default {
+    background-color: #F1560E;
+}
+.kuiDatePickerRowCellContent:focus {
+    box-shadow: 0 0 0 1px #f6f6f6, 0 0 0 2px #F1560E;
+}
+.kuiDatePickerNavigationButton:focus {
+	box-shadow: 0 0 0 1px #f6f6f6, 0 0 0 2px #F1560E;
+}
+.kuiDatePickerRowCellContent.kuiDatePickerRowCellContent-isCurrent{
+	color: #F1560E;
+}
+.filter-bar .filter{
+	background-color: #F1560E;
+}
+.btn-default{
+	background-color: #F1560E !important;
+}
+.list-group-menu .list-group-menu-item{
+	color: #5a5a5a;
+}
+.kbn-timepicker .refresh-interval-active {
+    background-color: #F1560E;
+}
+.label-success {
+ background-color: #F1560E;
+}
